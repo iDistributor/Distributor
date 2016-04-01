@@ -2,5 +2,31 @@
 {
     "structure": {
         "readme": "Intro.md"
+    },
+
+
+    "plugins": ["autocover"],
+    "pluginsConfig": {
+        "autocover": {
+        
+            "title": "Дистрибьютор",
+                "author": "Upsmile",
+                "pluginsConfig": {
+                    "autocover": {
+                        "font": {
+                            "size": null,
+                            "family": "Impact",
+                            "color": "#FFF"
+                        },
+                        "size": {
+                            "w": 1800,
+                            "h": 2360
+                        },
+                        "background": {
+                            "color": "#09F"
+                        }
+                    }
+                }
+        }
     }
 }
