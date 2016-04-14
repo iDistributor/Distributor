@@ -8,7 +8,7 @@
     "plugins": ["autocover"],
     "pluginsConfig": {
         "autocover": {
-        
+
             "title": "Дистрибьютор",
                 "author": "Upsmile",
                 "pluginsConfig": {
