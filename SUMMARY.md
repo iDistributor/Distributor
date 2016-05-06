@@ -8,3 +8,5 @@
    * [2016.03.17](News releases/2016.03.17_12/2016.03.17_12.md)   
 * Описание компонентов
    * [0704 СПР Прайс-листы производителя](Description of the components/0704/0704_PRICE2_LIST.md)
+   * [2246 ОТЧ Отчет ЗП экспедиции](Description of the components/2246/2246.md)
+   * [2276 ОТЧ ЗП склада](Description of the components/2276/2246ZPsklad.md)
