@@ -10,3 +10,4 @@
    * [0704 СПР Прайс-листы производителя](Description of the components/0704/0704_PRICE2_LIST.md)
    * [2246 ОТЧ Отчет ЗП экспедиции](Description of the components/2246/2246ZPexp.md)
    * [2276 ОТЧ ЗП склада](Description of the components/2276/2276ZPsklad.md)
+   * [2248 СПР Тип товара для склада](Description of the components/2248/2248TipTovSklad.md)
