@@ -14,4 +14,4 @@
 
 **Как попасть сюда попасть:**
 
-![](media/clickme_doc.gif)
+![](media/clickme.gif)
