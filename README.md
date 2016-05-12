@@ -14,4 +14,4 @@
 
 **Как попасть сюда попасть:**
 
-![Нажми меня](media/clickme_doc.gif "Нажми меня")
+![](media/clickme_doc.gif)
