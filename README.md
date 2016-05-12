@@ -12,6 +12,6 @@
 * [Скачать текущую версию в формате **ePub**](https://www.gitbook.com/download/epub/book/idistributor/distributor)
 * [Скачать текущую версию в формате **Mobi**](https://www.gitbook.com/download/mobi/book/idistributor/distributor)
 
-**Как попасть сюда попасть:**
+**Как сюда попасть:**
 
 ![](media/clickme.gif)
