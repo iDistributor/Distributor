@@ -14,4 +14,7 @@
 
 **Как сюда попасть:**
 
-![](media/clickme.gif)
+![](media/clickme.gif)  
+[**Глоссарий:**](https://idistributor.gitbooks.io/distributor/content/GLOSSARY.html)  
+(Краткий словарь основных терминов)
+![](media/glosss.gif)
