@@ -1,6 +1,6 @@
 # Summary
 
-* [Введение](README.md)
+* [Введение](README.md) 
 * [Новости релиза](News releases/LastNews/LastNews.md)
    * [2016.06.02](News releases/2016.06.02_22/2016.06.02_22.md)
    * [2016.05.12](News releases/2016.05.12_19/2016.05.12_19.md)
