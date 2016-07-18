@@ -1,7 +1,7 @@
 ## ERP Distributor - документация пользователя.
 
 **ERP Distributor** - программный комплекс, созданный для успешного ведения дистрибьюторского бизнеса. Сейчас в этой книге два основных раздела.
-- [Новости релиза](https://idistributor.gitbooks.io/distributor/content/News%20releases/LastNews/LastNews.html) - самые свежие изменения вверху ленты.
+- [Новости релиза](https://idistributor.gitbooks.io/distributor/content/News%20releases/2016.07.14_28/2016.07.14_28.html) - самые свежие изменения вверху ленты.
 - [Описание компонентов](https://idistributor.gitbooks.io/distributor/content/Description%20of%20the%20components/System/if.html) - все компоненты программы сгруппиррованы по функциональному
 назначению в разделах. Внутри каждого раздела главы, описывающие  назначение этих компонентов, инструкции пользователя, а также примеры их использования.
 
