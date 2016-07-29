@@ -16,3 +16,4 @@
    * [2246 ОТЧ ЗП экспедиции](Description of the components/2246/2246ZPexp.md)
    * [2248 СПР Тип товара для склада](Description of the components/2248/2248TipTovSklad.md)
    * [2276 ОТЧ ЗП склада](Description of the components/2276/2276ZPsklad.md)
+  
