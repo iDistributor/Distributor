@@ -1,4 +1,6 @@
-{ "plugins": ["ga"],
+{
+  "title": "Документация пользователя ERP Distributor",
+  "plugins": ["ga"],
     "pluginsConfig": {
         "ga": {"token": "UA-84232142-1"}
     }
