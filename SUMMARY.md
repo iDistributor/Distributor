@@ -1,7 +1,8 @@
 # Summary
 
 * [Введение](README.md)
-* [Новости релиза](https://idistributor.gitbooks.io/distributor/content/News%20releases/2016.08.24_34/2016.08.24_34.html)
+* [Новости релиза](https://idistributor.gitbooks.io/distributor/content/News%20releases/2016.09.14_37/2016.09.14_37.html)
+   * [2016.09.14](News releases/2016.09.14_37/2016.09.14_37.md)
    * [2016.08.24](News releases/2016.08.24_34/2016.08.24_34.md)
    * [2016.08.03](News releases/2016.08.03_31/2016.08.03_31.md)
    * [2016.07.14](News releases/2016.07.14_28/2016.07.14_28.md)
@@ -19,4 +20,3 @@
    * [2246 ОТЧ ЗП экспедиции](Description of the components/2246/2246ZPexp.md)
    * [2248 СПР Тип товара для склада](Description of the components/2248/2248TipTovSklad.md)
    * [2276 ОТЧ ЗП склада](Description of the components/2276/2276ZPsklad.md)
-   
