@@ -19,4 +19,4 @@
 [**Глоссарий:**](https://idistributor.gitbooks.io/distributor/content/GLOSSARY.html)  
 (Краткий словарь основных терминов)
 
-![](./media/Glosss.gif)
+![](./media/Glosss.gif)  
