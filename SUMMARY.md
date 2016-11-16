@@ -18,8 +18,8 @@
 * [Описание компонентов](Description of the components/System/if.md)
    * [0400 ЖД Возвратные накладные на склад ТМЦ](Description of the components/0400/0400.md)
    * [0704 СПР Прайс-листы производителя](Description of the components/0704/0704_PRICE2_LIST.md)
+   * [1292 СПР Маршруты ТА](Description of the components/1292/1292.md)
    * [1577 СПР Зоны доставки](Description of the components/1577/1577.md)
    * [2246 ОТЧ ЗП экспедиции](Description of the components/2246/2246ZPexp.md)
    * [2248 СПР Тип товара для склада](Description of the components/2248/2248TipTovSklad.md)
    * [2276 ОТЧ ЗП склада](Description of the components/2276/2276ZPsklad.md)
- 
