@@ -1,7 +1,8 @@
 # Summary
 
 * [Введение](README.md)
-* [Новости релиза](https://idistributor.gitbooks.io/distributor/content/News%20releases/2016.11.16_46/2016.11.16_46.html)
+* [Новости релиза](https://idistributor.gitbooks.io/distributor/content/News%20releases/2016.12.07_49/2016.12.07_49.html)
+   * [2016.12.07](News releases/2016.12.07_49/2016.12.07_49.md)
    * [2016.11.16](News releases/2016.11.16_46/2016.11.16_46.md)
    * [2016.10.26](News releases/2016.10.26_43/2016.10.26_43.md)
    * [2016.10.06](News releases/2016.10.06_40/2016.10.06_40.md)
