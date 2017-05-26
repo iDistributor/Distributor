@@ -2,8 +2,7 @@
 
 * [Введение](README.md)
 * [Новости релиза](https://idistributor.gitbooks.io/distributor/content/News releases/2016.12.07_49/2016.12.07_49.html)
-  * [2017.17.05](#)
-
+  * [2017.17.05](News releases/2016.09.14_37/2017.17.05_19.md)
   * [2016.12.07](News releases/2016.12.07_49/2016.12.07_49.md)
   * [2016.11.16](News releases/2016.11.16_46/2016.11.16_46.md)
   * [2016.10.26](News releases/2016.10.26_43/2016.10.26_43.md)
@@ -19,7 +18,7 @@
   * [2016.04.14](News releases/2016.04.14_16/2016.04.14_16.md)
   * [2016.03.31](News releases/2016.03.31_14/2016.03.31_14.md)
   * [2016.03.17](News releases/2016.03.17_12/2016.03.17_12.md)
-  * 
+  *
 * [Описание компонентов](Description of the components/System/if.md)
   * [0400 ЖД Возвратные накладные на склад ТМЦ](Description of the components/0400/0400.md)
   * [0704 СПР Прайс-листы производителя](Description of the components/0704/0704_PRICE2_LIST.md)
@@ -28,6 +27,3 @@
   * [2246 ОТЧ ЗП экспедиции](Description of the components/2246/2246ZPexp.md)
   * [2248 СПР Тип товара для склада](Description of the components/2248/2248TipTovSklad.md)
   * [2276 ОТЧ ЗП склада](Description of the components/2276/2276ZPsklad.md)
-
-
-
