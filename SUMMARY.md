@@ -2,7 +2,7 @@
 
 * [Введение](README.md)
 * [Новости релиза](https://idistributor.gitbooks.io/distributor/content/News releases/2016.12.07_49/2016.12.07_49.html)
-  * [2017.17.05](News releases/2016.09.14_37/2017.17.05_19.md)
+  * [2017.17.05](News releases/2017.17.05_19/2017.17.05_19.md)
   * [2016.12.07](News releases/2016.12.07_49/2016.12.07_49.md)
   * [2016.11.16](News releases/2016.11.16_46/2016.11.16_46.md)
   * [2016.10.26](News releases/2016.10.26_43/2016.10.26_43.md)
